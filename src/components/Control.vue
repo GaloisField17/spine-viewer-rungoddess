@@ -7,10 +7,10 @@
             </select>
             <button @click="switchControl" title="Switch collapse/expand">{{ $t('control.collapse') }}</button>
         </div>
-        <div class="row">
+        <!-- <div class="row">
             <input type="file" ref="fileInput" id="fileInput" multiple accept=".json,.skel" placeholder="">
             <button @click="switchControl" title="Switch collapse/expand">{{ $t('control.collapse') }}</button>
-        </div>
+        </div> -->
         <div class="row">
             <label style="width: 70px" title="Language"> Language </label>
             <select class="select-list" v-model="language">
@@ -100,7 +100,7 @@
                         <label :for="`animation-track${i - 1}`" class="animation-track">{{ i - 1 }}</label>
                     </li>
                 </ol>
-                <button @click="exportStore.show" title="Export">{{ $t('control.export') }}</button>
+                <!-- <button @click="exportStore.show" title="Export">{{ $t('control.export') }}</button> -->
             </div>
             <ol class="list">
                 <li v-for="(animation, i) in data.animations" :key="`${appStore.activeIndex}-${i}`">
@@ -215,7 +215,7 @@ const exportStore = useExportStore()
 
 const modelList = loadedModels;
 
-const selectModel = ref(""); 
+const selectModel = ref("");
 
 const changeModel = () => {
     console.log(`Selected model: ${selectModel.value}`);
