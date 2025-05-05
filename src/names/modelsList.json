@@ -1,0 +1,242 @@
+[
+  {
+    "type": "hero",
+    "id": "100001",
+    "dispName": "Miranda",
+    "path": "models/spine_hero_100001_1.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100002",
+    "dispName": "Nicole",
+    "path": "models/spine_hero_100002.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100003",
+    "dispName": "Emily",
+    "path": "models/spine_hero_100003.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100004",
+    "dispName": "Elia",
+    "path": "models/spine_hero_100004.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100006",
+    "dispName": "Sophia",
+    "path": "models/spine_hero_100006.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100008",
+    "dispName": "Kiki",
+    "path": "models/spine_hero_100008.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100009",
+    "dispName": "Chinatsu Shiraishi",
+    "path": "models/spine_hero_100009.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100011",
+    "dispName": "Rina",
+    "path": "models/spine_hero_100011.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100012",
+    "dispName": "Flame",
+    "path": "models/spine_hero_100012.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100013",
+    "dispName": "Gabrielle",
+    "path": "models/spine_hero_100013.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100014",
+    "dispName": "Zoe",
+    "path": "models/spine_hero_100014.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100015",
+    "dispName": "Audrey",
+    "path": "models/spine_hero_100015.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100016",
+    "dispName": "Diva",
+    "path": "models/spine_hero_100016.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100017",
+    "dispName": "hero_100017.skel",
+    "path": "models/spine_hero_100017.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100018",
+    "dispName": "Wendy",
+    "path": "models/spine_hero_100018.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100019",
+    "dispName": "hero_100019.skel",
+    "path": "models/spine_hero_100019.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100022",
+    "dispName": "Alicia",
+    "path": "models/spine_hero_100022.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100023",
+    "dispName": "hero_100023.skel",
+    "path": "models/spine_hero_100023.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100025",
+    "dispName": "Rika",
+    "path": "models/spine_hero_100025.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100025",
+    "dispName": "Rika",
+    "path": "models/spine_hero_100025_1.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100026",
+    "dispName": "hero_100026.skel",
+    "path": "models/spine_hero_100026.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100027",
+    "dispName": "Misty",
+    "path": "models/spine_hero_100027.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100028",
+    "dispName": "Ophelia",
+    "path": "models/spine_hero_100028.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100029",
+    "dispName": "hero_100029.skel",
+    "path": "models/spine_hero_100029.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100031",
+    "dispName": "hero_100031.skel",
+    "path": "models/spine_hero_100031.skel"
+  },
+  {
+    "type": "hero",
+    "id": "100032",
+    "dispName": "hero_100032.skel",
+    "path": "models/spine_hero_100032.skel"
+  },
+  {
+    "type": "other",
+    "id": "boss_210002.skel",
+    "dispName": "boss_210002.skel",
+    "path": "models/spine_boss_210002.skel"
+  },
+  {
+    "type": "other",
+    "id": "boss_210002_tou.skel",
+    "dispName": "boss_210002_tou.skel",
+    "path": "models/spine_boss_210002_tou.skel"
+  },
+  {
+    "type": "other",
+    "id": "Frole_1200_1.skel",
+    "dispName": "Frole_1200_1.skel",
+    "path": "models/spine_Frole_1200_1.skel"
+  },
+  {
+    "type": "other",
+    "id": "Frole_1200_3.skel",
+    "dispName": "Frole_1200_3.skel",
+    "path": "models/spine_Frole_1200_3.skel"
+  },
+  {
+    "type": "other",
+    "id": "Frole_1200_4.skel",
+    "dispName": "Frole_1200_4.skel",
+    "path": "models/spine_Frole_1200_4.skel"
+  },
+  {
+    "type": "other",
+    "id": "map_car.skel",
+    "dispName": "map_car.skel",
+    "path": "models/spine_map_car.skel"
+  },
+  {
+    "type": "other",
+    "id": "map_car_2.skel",
+    "dispName": "map_car_2.skel",
+    "path": "models/spine_map_car_2.skel"
+  },
+  {
+    "type": "other",
+    "id": "map_girl.skel",
+    "dispName": "map_girl.skel",
+    "path": "models/spine_map_girl.skel"
+  },
+  {
+    "type": "other",
+    "id": "map_girl_2.skel",
+    "dispName": "map_girl_2.skel",
+    "path": "models/spine_map_girl_2.skel"
+  },
+  {
+    "type": "other",
+    "id": "map_lawn.skel",
+    "dispName": "map_lawn.skel",
+    "path": "models/spine_map_lawn.skel"
+  },
+  {
+    "type": "other",
+    "id": "map_lawn_2.skel",
+    "dispName": "map_lawn_2.skel",
+    "path": "models/spine_map_lawn_2.skel"
+  },
+  {
+    "type": "other",
+    "id": "npc_400005.skel",
+    "dispName": "npc_400005.skel",
+    "path": "models/spine_npc_400005.skel"
+  },
+  {
+    "type": "other",
+    "id": "uav_001.skel",
+    "dispName": "uav_001.skel",
+    "path": "models/spine_uav_001.skel"
+  },
+  {
+    "type": "other",
+    "id": "uav_002.skel",
+    "dispName": "uav_002.skel",
+    "path": "models/spine_uav_002.skel"
+  }
+]

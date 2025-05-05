@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# System files
+.DS_Store
+
+# Build output
+node_modules/
+dist/               # Vue web build output
+dist-electron/      # Electron build output
+dist-ssr/
+coverage/
+*.local
+
+# Cypress (testing)
+cypress/videos/
+cypress/screenshots/
+
+# Electron
+/electron/ffmpeg/*.exe
+
+# Editor/project files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript
+*.tsbuildinfo
+
+# Windows binaries
+*.exe               # Optional — remove if you want to include built .exe in repo
