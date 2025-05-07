@@ -7,6 +7,17 @@
             </select>
             <button @click="switchControl" title="Switch collapse/expand">{{ $t('control.collapse') }}</button>
         </div>
+        <div class="row">
+            <button @click="previousModel" title="Previous Model">
+                &lt;  <!-- This will render the '<' symbol -->
+            </button>
+            <button @click="randomModel" title="Random Model">
+                Random
+            </button>
+            <button @click="nextModel" title="Next Model">
+                &gt;  <!-- This will render the '>' symbol -->
+            </button>
+        </div>
         <!-- <div class="row">
             <input type="file" ref="fileInput" id="fileInput" multiple accept=".json,.skel" placeholder="">
             <button @click="switchControl" title="Switch collapse/expand">{{ $t('control.collapse') }}</button>
@@ -218,8 +229,37 @@ const modelList = loadedModels;
 const selectModel = ref("");
 
 const changeModel = () => {
-    console.log(`Selected model: ${selectModel.value}`);
-    emit('load', [selectModel.value.path])
+    console.log(`Selected model: ${selectModel.value.dispName}`);
+    emit('load', [selectModel.value.path]);
+    // console.log(appStore);
+    // console.log(appStore.items[appStore.activeIndex]);
+    // console.log(modelList.find((obj) => obj["filename"] === appStore.items[appStore.activeIndex] + ".skel")["dispName"]);
+};
+
+const previousModel = () => {
+    const currentIndex = modelList.findIndex(model => model["filename"] === selectModel.value.filename);
+    if (currentIndex > 0) {
+        selectModel.value = modelList[currentIndex - 1];
+        changeModel();
+    }
+};
+
+const nextModel = () => {
+    const currentIndex = modelList.findIndex(model => model["filename"] === selectModel.value.filename);
+    if (currentIndex < modelList.length - 1) {
+        selectModel.value = modelList[currentIndex + 1];
+        changeModel();
+    }
+};
+
+const randomModel = () => {
+    let randomIndex;
+    do {
+        randomIndex = Math.floor(Math.random() * modelList.length);
+    } while (modelList[randomIndex]["filename"] === selectModel.value.filename || modelList[randomIndex]["dispName"].startsWith("🗙"));  
+
+    selectModel.value = modelList[randomIndex];
+    changeModel();
 };
 
 const data = computed(() => {
@@ -322,18 +362,20 @@ watch(() => data.value.skins.checked, (value) => {
 })
 
 onMounted(() => {
-    fileInput.value.addEventListener('click', () => {
+    if(fileInput.value) {
+        fileInput.value.addEventListener('click', () => {
         fileInput.value.value = ''
-    })
-    fileInput.value.addEventListener('change', () => {
-        if (fileInput.value.files.length > 0) {
-            const filePaths = Array.from(fileInput.value.files).map(f => f.path).filter(p => p.endsWith('skel') || p.endsWith('json'))
-            if (filePaths.length > 0) {
-                const fileUrls = getUrlsByPaths(filePaths)
-                emit('load', fileUrls)
+        })
+        fileInput.value.addEventListener('change', () => {
+            if (fileInput.value.files.length > 0) {
+                const filePaths = Array.from(fileInput.value.files).map(f => f.path).filter(p => p.endsWith('skel') || p.endsWith('json'))
+                if (filePaths.length > 0) {
+                    const fileUrls = getUrlsByPaths(filePaths)
+                    emit('load', fileUrls)
+                }
             }
-        }
-    })
+        })
+    }
 })
 
 </script>
@@ -398,7 +440,7 @@ input[name='animation'] {
 #side {
     z-index: 1;
     color: white;
-    width: 300px;
+    width: auto;
     height: 100%;
     padding: 0 10px;
     transition: .3s;
@@ -410,15 +452,15 @@ input[name='animation'] {
 }
 
 #side button {
-    width: 42px;
     height: 25px;
     border: none;
     color: black;
-    padding: 3px 0;
+    padding: 3px 10px;
     cursor: pointer;
     border-radius: 5px;
     box-shadow: gray 0 0 3px;
     background-color: rgb(240, 240, 240);
+    white-space: nowrap;
 }
 
 #side button:hover {
@@ -544,8 +586,9 @@ input[name='animation'] {
 }
 
 .animation-title {
-    overflow: scroll;
+    overflow-x: auto;
     max-width: 164px;
+    white-space: nowrap;
 }
 
 .select-list {

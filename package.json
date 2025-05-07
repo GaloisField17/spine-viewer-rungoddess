@@ -10,7 +10,6 @@
     "electron:wait": "set IS_DEV=true && wait-on tcp:8192 && electron .",
     "electron:serve": "set IS_DEV=true && concurrently -k \"npm run vite:dev\" \"electron .\"",
     "electron:build": "electron-builder",
-    "prebuild": "node getFileList.js && node getUnitList.js && node getModels.js",
     "build": "npm run vite:build && npm run electron:build"
   },
   "dependencies": {

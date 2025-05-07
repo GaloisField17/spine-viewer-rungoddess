@@ -94,15 +94,15 @@
 </template>
 
 <script setup>
-import { getIpcRenderer } from '@/utils/electron';
-import { inject, ref } from "vue";
-import useApp from "@/hooks/useApp";
-import { runtime } from "@/utils/patch";
 import ItemBar from "@/components/ItemList.vue";
-import { useSceneStore } from "@/stores/scene";
+import useApp from "@/hooks/useApp";
 import { useAppStore } from "@/stores/app";
 import { useExportStore } from "@/stores/export";
+import { useSceneStore } from "@/stores/scene";
+import { getIpcRenderer } from '@/utils/electron';
+import { runtime } from "@/utils/patch";
 import { SPINE_VERSION } from "@pixi-spine/loader-uni";
+import { inject, ref } from "vue";
 
 const pixiApp = inject('pixiApp')
 const appStore = useAppStore()

@@ -1,0 +1,153 @@
+
+spine_map_girl_2-v000015.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 832, 19
+  size: 145, 280
+  orig: 672, 447
+  offset: 248, 44
+  index: -1
+002
+  rotate: false
+  xy: 1, 264
+  size: 179, 284
+  orig: 672, 447
+  offset: 231, 46
+  index: -1
+003
+  rotate: false
+  xy: 565, 700
+  size: 212, 279
+  orig: 672, 447
+  offset: 211, 54
+  index: -1
+004
+  rotate: false
+  xy: 548, 448
+  size: 224, 257
+  orig: 672, 447
+  offset: 202, 77
+  index: -1
+005
+  rotate: false
+  xy: 352, 537
+  size: 231, 262
+  orig: 672, 447
+  offset: 194, 66
+  index: -1
+006
+  rotate: false
+  xy: 207, 254
+  size: 243, 266
+  orig: 672, 447
+  offset: 190, 57
+  index: -1
+007
+  rotate: false
+  xy: 1, 488
+  size: 238, 274
+  orig: 672, 447
+  offset: 190, 47
+  index: -1
+008
+  rotate: false
+  xy: 363, 67
+  size: 199, 278
+  orig: 672, 447
+  offset: 205, 43
+  index: -1
+009
+  rotate: false
+  xy: 438, 339
+  size: 168, 274
+  orig: 672, 447
+  offset: 215, 43
+  index: -1
+010
+  rotate: false
+  xy: 707, 175
+  size: 149, 279
+  orig: 672, 447
+  offset: 232, 43
+  index: -1
+011
+  rotate: false
+  xy: 758, 696
+  size: 156, 283
+  orig: 672, 447
+  offset: 243, 43
+  index: -1
+012
+  rotate: false
+  xy: 587, 202
+  size: 174, 289
+  orig: 672, 447
+  offset: 243, 46
+  index: -1
+013
+  rotate: false
+  xy: 191, 695
+  size: 203, 284
+  orig: 672, 447
+  offset: 224, 48
+  index: -1
+014
+  rotate: false
+  xy: 797, 267
+  size: 215, 266
+  orig: 672, 447
+  offset: 211, 71
+  index: -1
+015
+  rotate: false
+  xy: 1, 722
+  size: 223, 258
+  orig: 672, 447
+  offset: 198, 70
+  index: -1
+016
+  rotate: false
+  xy: 337, 719
+  size: 239, 261
+  orig: 672, 447
+  offset: 188, 62
+  index: -1
+017
+  rotate: false
+  xy: 731, 499
+  size: 224, 268
+  orig: 672, 447
+  offset: 194, 52
+  index: -1
+018
+  rotate: false
+  xy: 213, 443
+  size: 198, 273
+  orig: 672, 447
+  offset: 210, 44
+  index: -1
+019
+  rotate: false
+  xy: 110, 72
+  size: 173, 271
+  orig: 672, 447
+  offset: 222, 44
+  index: -1
+020
+  rotate: false
+  xy: 1, 2
+  size: 150, 274
+  orig: 672, 447
+  offset: 232, 45
+  index: -1
+ren_8
+  rotate: false
+  xy: 302, 957
+  size: 218, 22
+  orig: 218, 75
+  offset: 0, 0
+  index: -1
