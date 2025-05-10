@@ -1,0 +1,55 @@
+
+spine_uav_002-v000019.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi1
+  rotate: false
+  xy: 0, 0
+  size: 370, 414
+  orig: 370, 414
+  offset: 0, 0
+  index: -1
+chi2
+  rotate: false
+  xy: 649, 555
+  size: 195, 459
+  orig: 195, 459
+  offset: 0, 0
+  index: -1
+chi3
+  rotate: false
+  xy: 716, 7
+  size: 179, 244
+  orig: 179, 244
+  offset: 0, 0
+  index: -1
+chi4
+  rotate: false
+  xy: 846, 816
+  size: 177, 198
+  orig: 177, 198
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 0, 416
+  size: 647, 598
+  orig: 649, 598
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: false
+  xy: 372, 104
+  size: 342, 310
+  orig: 342, 310
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 716, 253
+  size: 292, 300
+  orig: 292, 300
+  offset: 0, 0
+  index: -1
