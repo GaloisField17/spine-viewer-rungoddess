@@ -239,7 +239,12 @@ const changeModel = () => {
 const previousModel = () => {
     const currentIndex = modelList.findIndex(model => model["filename"] === selectModel.value.filename);
     if (currentIndex > 0) {
-        selectModel.value = modelList[currentIndex - 1];
+        let newIndex = currentIndex - 1;
+        do {
+            newIndex--;
+        } while (modelList[newIndex]["dispName"].startsWith("🗙"));
+
+        selectModel.value = modelList[newIndex];
         changeModel();
     }
 };
@@ -247,7 +252,12 @@ const previousModel = () => {
 const nextModel = () => {
     const currentIndex = modelList.findIndex(model => model["filename"] === selectModel.value.filename);
     if (currentIndex < modelList.length - 1) {
-        selectModel.value = modelList[currentIndex + 1];
+        let newIndex = currentIndex + 1;;
+        do {
+            newIndex++
+        } while (modelList[newIndex]["dispName"].startsWith("🗙"));
+
+        selectModel.value = modelList[newIndex];
         changeModel();
     }
 };

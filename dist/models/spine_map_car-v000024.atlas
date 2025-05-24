@@ -1,0 +1,139 @@
+
+spine_map_car-v000024.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che2_1
+  rotate: false
+  xy: 231, 446
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+che2_10
+  rotate: false
+  xy: 44, 323
+  size: 375, 396
+  orig: 375, 396
+  offset: 0, 0
+  index: -1
+che2_11
+  rotate: false
+  xy: 819, 59
+  size: 162, 427
+  orig: 165, 427
+  offset: 0, 0
+  index: -1
+che2_12
+  rotate: false
+  xy: 402, 621
+  size: 614, 100
+  orig: 614, 100
+  offset: 0, 0
+  index: -1
+che2_13
+  rotate: false
+  xy: 421, 540
+  size: 283, 80
+  orig: 283, 80
+  offset: 0, 0
+  index: -1
+che2_14
+  rotate: false
+  xy: 494, 883
+  size: 152, 59
+  orig: 152, 59
+  offset: 0, 0
+  index: -1
+che2_15
+  rotate: false
+  xy: 494, 944
+  size: 251, 61
+  orig: 251, 61
+  offset: 0, 0
+  index: -1
+che2_16
+  rotate: false
+  xy: 316, 324
+  size: 391, 210
+  orig: 391, 210
+  offset: 0, 0
+  index: -1
+che2_17
+  rotate: false
+  xy: 490, 723
+  size: 275, 150
+  orig: 275, 150
+  offset: 0, 0
+  index: -1
+che2_18
+  rotate: false
+  xy: 0, 234
+  size: 952, 87
+  orig: 952, 87
+  offset: 0, 0
+  index: -1
+che2_19
+  rotate: false
+  xy: 0, 156
+  size: 894, 77
+  orig: 898, 87
+  offset: 4, 5
+  index: -1
+che2_2
+  rotate: false
+  xy: 191, 384
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+che2_3
+  rotate: false
+  xy: 0, 396
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+che2_4
+  rotate: false
+  xy: 151, 323
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+che2_5
+  rotate: false
+  xy: 698, 324
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+che2_6
+  rotate: false
+  xy: 578, 10
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+che2_7
+  rotate: false
+  xy: 758, 832
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+che2_8
+  rotate: false
+  xy: 0, 713
+  size: 492, 293
+  orig: 492, 293
+  offset: 0, 0
+  index: -1
+che2_9
+  rotate: false
+  xy: 0, 2
+  size: 185, 154
+  orig: 185, 154
+  offset: 0, 0
+  index: -1
