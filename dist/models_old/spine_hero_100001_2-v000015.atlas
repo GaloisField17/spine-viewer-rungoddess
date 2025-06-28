@@ -1,0 +1,90 @@
+
+spine_hero_100001_2-v000015.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Exhaust
+  rotate: false
+  xy: 712, 1
+  size: 312, 286
+  orig: 312, 286
+  offset: 0, 0
+  index: -1
+Motorcycles_body
+  rotate: false
+  xy: 86, 88
+  size: 465, 456
+  orig: 785, 515
+  offset: 320, 0
+  index: -1
+Motorcycles_body2
+  rotate: false
+  xy: 287, 480
+  size: 473, 493
+  orig: 785, 515
+  offset: 0, 22
+  index: -1
+Motorcycles_f
+  rotate: false
+  xy: 599, 306
+  size: 425, 281
+  orig: 438, 434
+  offset: 13, 153
+  index: -1
+Motorcycles_f2
+  rotate: false
+  xy: 538, 152
+  size: 301, 283
+  orig: 438, 434
+  offset: 0, 0
+  index: -1
+Parts_1
+  rotate: false
+  xy: 185, 42
+  size: 182, 66
+  orig: 182, 67
+  offset: 0, 0
+  index: -1
+Parts_2
+  rotate: false
+  xy: 0, 254
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1
+Parts_3
+  rotate: false
+  xy: 534, 1
+  size: 190, 142
+  orig: 190, 142
+  offset: 0, 0
+  index: -1
+Parts_4
+  rotate: false
+  xy: 0, 50
+  size: 183, 169
+  orig: 183, 169
+  offset: 0, 0
+  index: -1
+Parts_5
+  rotate: false
+  xy: 370, 284
+  size: 176, 201
+  orig: 176, 201
+  offset: 0, 0
+  index: -1
+Tires_b
+  rotate: false
+  xy: 689, 595
+  size: 311, 378
+  orig: 311, 382
+  offset: 0, 0
+  index: -1
+Tires_f
+  rotate: false
+  xy: 0, 522
+  size: 377, 450
+  orig: 377, 450
+  offset: 0, 0
+  index: -1

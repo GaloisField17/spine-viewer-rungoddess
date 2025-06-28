@@ -1,0 +1,132 @@
+
+spine_boss_210002-v000031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boshi_1
+  rotate: false
+  xy: 0, 43
+  size: 158, 92
+  orig: 158, 92
+  offset: 0, 0
+  index: -1
+boshi_10
+  rotate: false
+  xy: 939, 717
+  size: 56, 132
+  orig: 56, 132
+  offset: 0, 0
+  index: -1
+boshi_11
+  rotate: false
+  xy: 753, 365
+  size: 185, 484
+  orig: 185, 484
+  offset: 0, 0
+  index: -1
+boshi_12
+  rotate: false
+  xy: 708, 661
+  size: 99, 187
+  orig: 99, 187
+  offset: 0, 0
+  index: -1
+boshi_13
+  rotate: false
+  xy: 927, 647
+  size: 97, 145
+  orig: 97, 145
+  offset: 0, 0
+  index: -1
+boshi_14
+  rotate: false
+  xy: 0, 76
+  size: 428, 772
+  orig: 428, 772
+  offset: 0, 0
+  index: -1
+boshi_15
+  rotate: false
+  xy: 715, 15
+  size: 223, 365
+  orig: 223, 365
+  offset: 0, 0
+  index: -1
+boshi_16
+  rotate: false
+  xy: 471, 84
+  size: 242, 397
+  orig: 242, 397
+  offset: 0, 0
+  index: -1
+boshi_17
+  rotate: false
+  xy: 593, 312
+  size: 180, 537
+  orig: 180, 537
+  offset: 0, 0
+  index: -1
+boshi_18
+  rotate: false
+  xy: 416, 284
+  size: 175, 565
+  orig: 175, 565
+  offset: 0, 0
+  index: -1
+boshi_2
+  rotate: false
+  xy: 358, 823
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+boshi_3
+  rotate: false
+  xy: 0, 791
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+boshi_4
+  rotate: false
+  xy: 901, 284
+  size: 123, 151
+  orig: 123, 151
+  offset: 0, 0
+  index: -1
+boshi_5
+  rotate: false
+  xy: 317, 817
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+boshi_6
+  rotate: false
+  xy: 684, 795
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+boshi_7
+  rotate: false
+  xy: 965, 599
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+boshi_8
+  rotate: false
+  xy: 297, 2
+  size: 206, 175
+  orig: 206, 175
+  offset: 0, 0
+  index: -1
+boshi_9
+  rotate: false
+  xy: 793, 3
+  size: 203, 145
+  orig: 203, 145
+  offset: 0, 0
+  index: -1

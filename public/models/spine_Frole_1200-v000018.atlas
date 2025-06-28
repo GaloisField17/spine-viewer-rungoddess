@@ -1,0 +1,174 @@
+
+spine_Frole_1200-v000018.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 241, 875
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 261, 877
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 386, 846
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 436, 846
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 93, 523
+  size: 104, 186
+  orig: 104, 186
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 244, 2
+  size: 200, 249
+  orig: 247, 600
+  offset: 17, 75
+  index: -1
+20
+  rotate: false
+  xy: 44, 709
+  size: 131, 184
+  orig: 131, 184
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 197, 167
+  size: 141, 726
+  orig: 141, 726
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 936, 293
+  size: 85, 107
+  orig: 85, 107
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 536, 126
+  size: 212, 376
+  orig: 212, 376
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 279, 159
+  size: 204, 567
+  orig: 204, 584
+  offset: 0, 17
+  index: -1
+6
+  rotate: false
+  xy: 461, 499
+  size: 212, 395
+  orig: 214, 395
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 748, 362
+  size: 271, 531
+  orig: 271, 531
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 944, 598
+  size: 79, 178
+  orig: 157, 178
+  offset: 0, 0
+  index: -1
+bianzi1
+  rotate: false
+  xy: 252, 350
+  size: 348, 543
+  orig: 487, 543
+  offset: 0, 0
+  index: -1
+bianzi2
+  rotate: false
+  xy: 772, 33
+  size: 251, 515
+  orig: 251, 515
+  offset: 0, 0
+  index: -1
+lasuo
+  rotate: false
+  xy: 45, 874
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 860, 109
+  size: 163, 190
+  orig: 163, 190
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 652, 87
+  size: 119, 201
+  orig: 119, 201
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 463, 255
+  size: 110, 103
+  orig: 112, 103
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 617, 803
+  size: 16, 90
+  orig: 16, 90
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 169, 802
+  size: 26, 91
+  orig: 26, 91
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: false
+  xy: 645, 602
+  size: 230, 291
+  orig: 243, 291
+  offset: 13, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 0, 140
+  size: 197, 755
+  orig: 230, 785
+  offset: 15, 17
+  index: -1

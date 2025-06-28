@@ -239,7 +239,7 @@ const changeModel = () => {
 const previousModel = () => {
     const currentIndex = modelList.findIndex(model => model["filename"] === selectModel.value.filename);
     if (currentIndex > 0) {
-        let newIndex = currentIndex - 1;
+        let newIndex = currentIndex;
         do {
             newIndex--;
         } while (modelList[newIndex]["dispName"].startsWith("🗙"));
@@ -252,7 +252,7 @@ const previousModel = () => {
 const nextModel = () => {
     const currentIndex = modelList.findIndex(model => model["filename"] === selectModel.value.filename);
     if (currentIndex < modelList.length - 1) {
-        let newIndex = currentIndex + 1;;
+        let newIndex = currentIndex;
         do {
             newIndex++
         } while (modelList[newIndex]["dispName"].startsWith("🗙"));

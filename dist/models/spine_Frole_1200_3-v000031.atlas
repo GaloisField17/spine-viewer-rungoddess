@@ -1,0 +1,195 @@
+
+spine_Frole_1200_3-v000031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao
+  rotate: false
+  xy: 119, 686
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+bianzi1
+  rotate: false
+  xy: 403, 131
+  size: 353, 551
+  orig: 494, 551
+  offset: 0, 0
+  index: -1
+bianzi2
+  rotate: false
+  xy: 220, 34
+  size: 255, 522
+  orig: 255, 522
+  offset: 0, 0
+  index: -1
+buqiang
+  rotate: false
+  xy: 143, 557
+  size: 574, 375
+  orig: 574, 375
+  offset: 0, 0
+  index: -1
+duzi
+  rotate: false
+  xy: 825, 433
+  size: 198, 247
+  orig: 287, 1123
+  offset: 89, 490
+  index: -1
+gebo2
+  rotate: false
+  xy: 334, 92
+  size: 201, 352
+  orig: 253, 352
+  offset: 52, 0
+  index: -1
+gobo1
+  rotate: false
+  xy: 516, 569
+  size: 203, 212
+  orig: 203, 212
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 902, 43
+  size: 122, 200
+  orig: 122, 200
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 216, 397
+  size: 132, 187
+  orig: 132, 187
+  offset: 0, 0
+  index: -1
+lasuo
+  rotate: false
+  xy: 354, 913
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 858, 238
+  size: 166, 193
+  orig: 166, 193
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 795, 2
+  size: 120, 204
+  orig: 120, 204
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 250, 828
+  size: 112, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 700, 809
+  size: 16, 92
+  orig: 16, 92
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 767, 840
+  size: 27, 92
+  orig: 27, 92
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: false
+  xy: 783, 637
+  size: 234, 296
+  orig: 247, 296
+  offset: 13, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 364, 860
+  size: 100, 72
+  orig: 116, 72
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 410, 820
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+shouqiang
+  rotate: false
+  xy: 0, 406
+  size: 82, 180
+  orig: 159, 180
+  offset: 0, 0
+  index: -1
+tongkong1
+  rotate: false
+  xy: 46, 915
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+tongkong2
+  rotate: false
+  xy: 336, 916
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 0, 174
+  size: 209, 758
+  orig: 209, 758
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 716, 196
+  size: 140, 736
+  orig: 143, 736
+  offset: 0, 0
+  index: -1
+xiaobi1
+  rotate: false
+  xy: 445, 170
+  size: 199, 129
+  orig: 435, 282
+  offset: 0, 153
+  index: -1
+xiong
+  rotate: false
+  xy: 71, 797
+  size: 177, 135
+  orig: 177, 135
+  offset: 0, 0
+  index: -1
+yanbai1
+  rotate: false
+  xy: 505, 894
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+yanbai2
+  rotate: false
+  xy: 548, 897
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

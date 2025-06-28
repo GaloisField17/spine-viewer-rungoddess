@@ -1,0 +1,1458 @@
+[
+  {
+    "filename": "spine_Frole_1200_1-v000015.skel",
+    "basename": "spine_Frole_1200_1.skel",
+    "version": "v000015",
+    "path": "models/spine_Frole_1200_1-v000015.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_1 [v000015]"
+  },
+  {
+    "filename": "spine_Frole_1200_1-v000018.skel",
+    "basename": "spine_Frole_1200_1.skel",
+    "version": "v000018",
+    "path": "models/spine_Frole_1200_1-v000018.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_1 [v000018]"
+  },
+  {
+    "filename": "spine_Frole_1200_1-v000019.skel",
+    "basename": "spine_Frole_1200_1.skel",
+    "version": "v000019",
+    "path": "models/spine_Frole_1200_1-v000019.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_1 [v000019]"
+  },
+  {
+    "filename": "spine_Frole_1200_1-v000024.skel",
+    "basename": "spine_Frole_1200_1.skel",
+    "version": "v000024",
+    "path": "models/spine_Frole_1200_1-v000024.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_1 [v000024]"
+  },
+  {
+    "filename": "spine_Frole_1200_3-v000015.skel",
+    "basename": "spine_Frole_1200_3.skel",
+    "version": "v000015",
+    "path": "models/spine_Frole_1200_3-v000015.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_3 [v000015]"
+  },
+  {
+    "filename": "spine_Frole_1200_3-v000018.skel",
+    "basename": "spine_Frole_1200_3.skel",
+    "version": "v000018",
+    "path": "models/spine_Frole_1200_3-v000018.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_3 [v000018]"
+  },
+  {
+    "filename": "spine_Frole_1200_3-v000019.skel",
+    "basename": "spine_Frole_1200_3.skel",
+    "version": "v000019",
+    "path": "models/spine_Frole_1200_3-v000019.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_3 [v000019]"
+  },
+  {
+    "filename": "spine_Frole_1200_3-v000024.skel",
+    "basename": "spine_Frole_1200_3.skel",
+    "version": "v000024",
+    "path": "models/spine_Frole_1200_3-v000024.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_3 [v000024]"
+  },
+  {
+    "filename": "spine_Frole_1200_4-v000015.skel",
+    "basename": "spine_Frole_1200_4.skel",
+    "version": "v000015",
+    "path": "models/spine_Frole_1200_4-v000015.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_4 [v000015]"
+  },
+  {
+    "filename": "spine_Frole_1200_4-v000018.skel",
+    "basename": "spine_Frole_1200_4.skel",
+    "version": "v000018",
+    "path": "models/spine_Frole_1200_4-v000018.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_4 [v000018]"
+  },
+  {
+    "filename": "spine_Frole_1200_4-v000019.skel",
+    "basename": "spine_Frole_1200_4.skel",
+    "version": "v000019",
+    "path": "models/spine_Frole_1200_4-v000019.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_4 [v000019]"
+  },
+  {
+    "filename": "spine_Frole_1200_4-v000024.skel",
+    "basename": "spine_Frole_1200_4.skel",
+    "version": "v000024",
+    "path": "models/spine_Frole_1200_4-v000024.skel",
+    "type": "Dawnbringer",
+    "dispName": "Frole_4 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100004-v000015.skel",
+    "basename": "spine_hero_100004.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100004-v000015.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Elia [v000015]"
+  },
+  {
+    "filename": "spine_hero_100004-v000018.skel",
+    "basename": "spine_hero_100004.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100004-v000018.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Elia [v000018]"
+  },
+  {
+    "filename": "spine_hero_100004-v000019.skel",
+    "basename": "spine_hero_100004.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100004-v000019.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Elia [v000019]"
+  },
+  {
+    "filename": "spine_hero_100004-v000024.skel",
+    "basename": "spine_hero_100004.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100004-v000024.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Elia [v000024]"
+  },
+  {
+    "filename": "spine_hero_100003-v000015.skel",
+    "basename": "spine_hero_100003.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100003-v000015.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Emily [v000015]"
+  },
+  {
+    "filename": "spine_hero_100003-v000018.skel",
+    "basename": "spine_hero_100003.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100003-v000018.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Emily [v000018]"
+  },
+  {
+    "filename": "spine_hero_100003-v000019.skel",
+    "basename": "spine_hero_100003.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100003-v000019.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Emily [v000019]"
+  },
+  {
+    "filename": "spine_hero_100003-v000024.skel",
+    "basename": "spine_hero_100003.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100003-v000024.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Emily [v000024]"
+  },
+  {
+    "filename": "spine_hero_100001_1-v000015.skel",
+    "basename": "spine_hero_100001_1.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100001_1-v000015.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_1 [v000015]"
+  },
+  {
+    "filename": "spine_hero_100001_1-v000018.skel",
+    "basename": "spine_hero_100001_1.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100001_1-v000018.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_1 [v000018]"
+  },
+  {
+    "filename": "spine_hero_100001_1-v000019.skel",
+    "basename": "spine_hero_100001_1.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100001_1-v000019.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_1 [v000019]"
+  },
+  {
+    "filename": "spine_hero_100001_1-v000024.skel",
+    "basename": "spine_hero_100001_1.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100001_1-v000024.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_1 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100001_2-v000015.skel",
+    "basename": "spine_hero_100001_2.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100001_2-v000015.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_2 [v000015]"
+  },
+  {
+    "filename": "spine_hero_100001_2-v000018.skel",
+    "basename": "spine_hero_100001_2.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100001_2-v000018.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_2 [v000018]"
+  },
+  {
+    "filename": "spine_hero_100001_2-v000019.skel",
+    "basename": "spine_hero_100001_2.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100001_2-v000019.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_2 [v000019]"
+  },
+  {
+    "filename": "spine_hero_100001_2-v000024.skel",
+    "basename": "spine_hero_100001_2.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100001_2-v000024.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Miranda_2 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100002-v000015.skel",
+    "basename": "spine_hero_100002.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100002-v000015.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Nicole [v000015]"
+  },
+  {
+    "filename": "spine_hero_100002-v000018.skel",
+    "basename": "spine_hero_100002.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100002-v000018.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Nicole [v000018]"
+  },
+  {
+    "filename": "spine_hero_100002-v000019.skel",
+    "basename": "spine_hero_100002.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100002-v000019.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Nicole [v000019]"
+  },
+  {
+    "filename": "spine_hero_100002-v000024.skel",
+    "basename": "spine_hero_100002.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100002-v000024.skel",
+    "type": "Valkyrie_SR",
+    "dispName": "Nicole [v000024]"
+  },
+  {
+    "filename": "spine_hero_100015-v000015.skel",
+    "basename": "spine_hero_100015.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100015-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Audrey [v000015]"
+  },
+  {
+    "filename": "spine_hero_100015-v000018.skel",
+    "basename": "spine_hero_100015.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100015-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Audrey [v000018]"
+  },
+  {
+    "filename": "spine_hero_100015-v000019.skel",
+    "basename": "spine_hero_100015.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100015-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Audrey [v000019]"
+  },
+  {
+    "filename": "spine_hero_100015-v000024.skel",
+    "basename": "spine_hero_100015.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100015-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Audrey [v000024]"
+  },
+  {
+    "filename": "spine_hero_100005-v000019.skel",
+    "basename": "spine_hero_100005.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100005-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Aurora [v000019]"
+  },
+  {
+    "filename": "spine_hero_100005-v000024.skel",
+    "basename": "spine_hero_100005.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100005-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Aurora [v000024]"
+  },
+  {
+    "filename": "spine_ui_100005-v000024.skel",
+    "basename": "spine_ui_100005.skel",
+    "version": "v000024",
+    "path": "models/spine_ui_100005-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Aurora_1 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100009-v000015.skel",
+    "basename": "spine_hero_100009.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100009-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Chinatsu Shiraishi [v000015]"
+  },
+  {
+    "filename": "spine_hero_100009-v000018.skel",
+    "basename": "spine_hero_100009.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100009-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Chinatsu Shiraishi [v000018]"
+  },
+  {
+    "filename": "spine_hero_100009-v000019.skel",
+    "basename": "spine_hero_100009.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100009-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Chinatsu Shiraishi [v000019]"
+  },
+  {
+    "filename": "spine_hero_100009-v000024.skel",
+    "basename": "spine_hero_100009.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100009-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Chinatsu Shiraishi [v000024]"
+  },
+  {
+    "filename": "spine_hero_100013-v000015.skel",
+    "basename": "spine_hero_100013.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100013-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Gabrielle [v000015]"
+  },
+  {
+    "filename": "spine_hero_100013-v000018.skel",
+    "basename": "spine_hero_100013.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100013-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Gabrielle [v000018]"
+  },
+  {
+    "filename": "spine_hero_100013-v000019.skel",
+    "basename": "spine_hero_100013.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100013-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Gabrielle [v000019]"
+  },
+  {
+    "filename": "spine_hero_100013-v000024.skel",
+    "basename": "spine_hero_100013.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100013-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Gabrielle [v000024]"
+  },
+  {
+    "filename": "spine_hero_100008-v000015.skel",
+    "basename": "spine_hero_100008.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100008-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki [v000015]"
+  },
+  {
+    "filename": "spine_hero_100008-v000018.skel",
+    "basename": "spine_hero_100008.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100008-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki [v000018]"
+  },
+  {
+    "filename": "spine_hero_100008-v000019.skel",
+    "basename": "spine_hero_100008.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100008-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki [v000019]"
+  },
+  {
+    "filename": "spine_hero_100008-v000024.skel",
+    "basename": "spine_hero_100008.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100008-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki [v000024]"
+  },
+  {
+    "filename": "spine_hero_100008_old-v000015.skel",
+    "basename": "spine_hero_100008_old.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100008_old-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki_old [v000015]"
+  },
+  {
+    "filename": "spine_hero_100008_old-v000018.skel",
+    "basename": "spine_hero_100008_old.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100008_old-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki_old [v000018]"
+  },
+  {
+    "filename": "spine_hero_100008_old-v000019.skel",
+    "basename": "spine_hero_100008_old.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100008_old-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki_old [v000019]"
+  },
+  {
+    "filename": "spine_hero_100008_old-v000024.skel",
+    "basename": "spine_hero_100008_old.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100008_old-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Kiki_old [v000024]"
+  },
+  {
+    "filename": "spine_hero_100011-v000015.skel",
+    "basename": "spine_hero_100011.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100011-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Rina [v000015]"
+  },
+  {
+    "filename": "spine_hero_100011-v000018.skel",
+    "basename": "spine_hero_100011.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100011-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Rina [v000018]"
+  },
+  {
+    "filename": "spine_hero_100011-v000019.skel",
+    "basename": "spine_hero_100011.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100011-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Rina [v000019]"
+  },
+  {
+    "filename": "spine_hero_100011-v000024.skel",
+    "basename": "spine_hero_100011.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100011-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Rina [v000024]"
+  },
+  {
+    "filename": "spine_hero_100006-v000015.skel",
+    "basename": "spine_hero_100006.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100006-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Sophia [v000015]"
+  },
+  {
+    "filename": "spine_hero_100006-v000018.skel",
+    "basename": "spine_hero_100006.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100006-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Sophia [v000018]"
+  },
+  {
+    "filename": "spine_hero_100006-v000019.skel",
+    "basename": "spine_hero_100006.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100006-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Sophia [v000019]"
+  },
+  {
+    "filename": "spine_hero_100006-v000024.skel",
+    "basename": "spine_hero_100006.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100006-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Sophia [v000024]"
+  },
+  {
+    "filename": "spine_hero_100014-v000015.skel",
+    "basename": "spine_hero_100014.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100014-v000015.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Zoe [v000015]"
+  },
+  {
+    "filename": "spine_hero_100014-v000018.skel",
+    "basename": "spine_hero_100014.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100014-v000018.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Zoe [v000018]"
+  },
+  {
+    "filename": "spine_hero_100014-v000019.skel",
+    "basename": "spine_hero_100014.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100014-v000019.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Zoe [v000019]"
+  },
+  {
+    "filename": "spine_hero_100014-v000024.skel",
+    "basename": "spine_hero_100014.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100014-v000024.skel",
+    "type": "Valkyrie_SSR",
+    "dispName": "Zoe [v000024]"
+  },
+  {
+    "filename": "spine_hero_100016-v000015.skel",
+    "basename": "spine_hero_100016.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100016-v000015.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva [v000015]"
+  },
+  {
+    "filename": "spine_hero_100016-v000018.skel",
+    "basename": "spine_hero_100016.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100016-v000018.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva [v000018]"
+  },
+  {
+    "filename": "spine_hero_100016-v000019.skel",
+    "basename": "spine_hero_100016.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100016-v000019.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva [v000019]"
+  },
+  {
+    "filename": "spine_hero_100016-v000024.skel",
+    "basename": "spine_hero_100016.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100016-v000024.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva [v000024]"
+  },
+  {
+    "filename": "spine_hero_100016_old-v000015.skel",
+    "basename": "spine_hero_100016_old.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100016_old-v000015.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva_old [v000015]"
+  },
+  {
+    "filename": "spine_hero_100016_old-v000018.skel",
+    "basename": "spine_hero_100016_old.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100016_old-v000018.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva_old [v000018]"
+  },
+  {
+    "filename": "spine_hero_100016_old-v000019.skel",
+    "basename": "spine_hero_100016_old.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100016_old-v000019.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva_old [v000019]"
+  },
+  {
+    "filename": "spine_hero_100016_old-v000024.skel",
+    "basename": "spine_hero_100016_old.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100016_old-v000024.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Diva_old [v000024]"
+  },
+  {
+    "filename": "spine_hero_100019-v000015.skel",
+    "basename": "spine_hero_100019.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100019-v000015.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Emilius [v000015]"
+  },
+  {
+    "filename": "spine_hero_100019-v000018.skel",
+    "basename": "spine_hero_100019.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100019-v000018.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Emilius [v000018]"
+  },
+  {
+    "filename": "spine_hero_100019-v000019.skel",
+    "basename": "spine_hero_100019.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100019-v000019.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Emilius [v000019]"
+  },
+  {
+    "filename": "spine_hero_100019-v000024.skel",
+    "basename": "spine_hero_100019.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100019-v000024.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Emilius [v000024]"
+  },
+  {
+    "filename": "spine_hero_100012-v000015.skel",
+    "basename": "spine_hero_100012.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100012-v000015.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Flame [v000015]"
+  },
+  {
+    "filename": "spine_hero_100012-v000018.skel",
+    "basename": "spine_hero_100012.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100012-v000018.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Flame [v000018]"
+  },
+  {
+    "filename": "spine_hero_100012-v000019.skel",
+    "basename": "spine_hero_100012.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100012-v000019.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Flame [v000019]"
+  },
+  {
+    "filename": "spine_hero_100012-v000024.skel",
+    "basename": "spine_hero_100012.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100012-v000024.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Flame [v000024]"
+  },
+  {
+    "filename": "spine_hero_100028-v000015.skel",
+    "basename": "spine_hero_100028.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100028-v000015.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Ophelia [v000015]"
+  },
+  {
+    "filename": "spine_hero_100028-v000018.skel",
+    "basename": "spine_hero_100028.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100028-v000018.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Ophelia [v000018]"
+  },
+  {
+    "filename": "spine_hero_100028-v000019.skel",
+    "basename": "spine_hero_100028.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100028-v000019.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Ophelia [v000019]"
+  },
+  {
+    "filename": "spine_hero_100028-v000024.skel",
+    "basename": "spine_hero_100028.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100028-v000024.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Ophelia [v000024]"
+  },
+  {
+    "filename": "spine_hero_100018-v000015.skel",
+    "basename": "spine_hero_100018.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100018-v000015.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Wendy [v000015]"
+  },
+  {
+    "filename": "spine_hero_100018-v000018.skel",
+    "basename": "spine_hero_100018.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100018-v000018.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Wendy [v000018]"
+  },
+  {
+    "filename": "spine_hero_100018-v000019.skel",
+    "basename": "spine_hero_100018.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100018-v000019.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Wendy [v000019]"
+  },
+  {
+    "filename": "spine_hero_100018-v000024.skel",
+    "basename": "spine_hero_100018.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100018-v000024.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Wendy [v000024]"
+  },
+  {
+    "filename": "spine_hero_100026-v000015.skel",
+    "basename": "spine_hero_100026.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100026-v000015.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Yusheng [v000015]"
+  },
+  {
+    "filename": "spine_hero_100026-v000018.skel",
+    "basename": "spine_hero_100026.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100026-v000018.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Yusheng [v000018]"
+  },
+  {
+    "filename": "spine_hero_100026-v000019.skel",
+    "basename": "spine_hero_100026.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100026-v000019.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Yusheng [v000019]"
+  },
+  {
+    "filename": "spine_hero_100026-v000024.skel",
+    "basename": "spine_hero_100026.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100026-v000024.skel",
+    "type": "Valkyrie_UR",
+    "dispName": "Yusheng [v000024]"
+  },
+  {
+    "filename": "spine_hero_100025-v000015.skel",
+    "basename": "spine_hero_100025.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100025-v000015.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Rika [v000015]"
+  },
+  {
+    "filename": "spine_hero_100025-v000018.skel",
+    "basename": "spine_hero_100025.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100025-v000018.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Rika [v000018]"
+  },
+  {
+    "filename": "spine_hero_100025-v000019.skel",
+    "basename": "spine_hero_100025.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100025-v000019.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Rika [v000019]"
+  },
+  {
+    "filename": "spine_hero_100025-v000024.skel",
+    "basename": "spine_hero_100025.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100025-v000024.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Rika [v000024]"
+  },
+  {
+    "filename": "spine_hero_100025_1-v000015.skel",
+    "basename": "spine_hero_100025_1.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100025_1-v000015.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Rika_1 [v000015]"
+  },
+  {
+    "filename": "spine_hero_100025_1-v000019.skel",
+    "basename": "spine_hero_100025_1.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100025_1-v000019.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Rika_1 [v000019]"
+  },
+  {
+    "filename": "spine_hero_100025_1-v000024.skel",
+    "basename": "spine_hero_100025_1.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100025_1-v000024.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Rika_1 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100031-v000015.skel",
+    "basename": "spine_hero_100031.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100031-v000015.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Yonai [v000015]"
+  },
+  {
+    "filename": "spine_hero_100031-v000018.skel",
+    "basename": "spine_hero_100031.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100031-v000018.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Yonai [v000018]"
+  },
+  {
+    "filename": "spine_hero_100031-v000019.skel",
+    "basename": "spine_hero_100031.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100031-v000019.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Yonai [v000019]"
+  },
+  {
+    "filename": "spine_hero_100031-v000024.skel",
+    "basename": "spine_hero_100031.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100031-v000024.skel",
+    "type": "Valkyrie_SP",
+    "dispName": "Yonai [v000024]"
+  },
+  {
+    "filename": "spine_hero_100022-v000015.skel",
+    "basename": "spine_hero_100022.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100022-v000015.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Alicia [v000015]"
+  },
+  {
+    "filename": "spine_hero_100022-v000018.skel",
+    "basename": "spine_hero_100022.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100022-v000018.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Alicia [v000018]"
+  },
+  {
+    "filename": "spine_hero_100022-v000019.skel",
+    "basename": "spine_hero_100022.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100022-v000019.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Alicia [v000019]"
+  },
+  {
+    "filename": "spine_hero_100022-v000024.skel",
+    "basename": "spine_hero_100022.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100022-v000024.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Alicia [v000024]"
+  },
+  {
+    "filename": "spine_hero_100027-v000015.skel",
+    "basename": "spine_hero_100027.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100027-v000015.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Misty [v000015]"
+  },
+  {
+    "filename": "spine_hero_100027-v000018.skel",
+    "basename": "spine_hero_100027.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100027-v000018.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Misty [v000018]"
+  },
+  {
+    "filename": "spine_hero_100027-v000019.skel",
+    "basename": "spine_hero_100027.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100027-v000019.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Misty [v000019]"
+  },
+  {
+    "filename": "spine_hero_100027-v000024.skel",
+    "basename": "spine_hero_100027.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100027-v000024.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "Misty [v000024]"
+  },
+  {
+    "filename": "spine_hero_100017-v000015.skel",
+    "basename": "spine_hero_100017.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100017-v000015.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100017 [v000015]"
+  },
+  {
+    "filename": "spine_hero_100017-v000018.skel",
+    "basename": "spine_hero_100017.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100017-v000018.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100017 [v000018]"
+  },
+  {
+    "filename": "spine_hero_100017-v000019.skel",
+    "basename": "spine_hero_100017.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100017-v000019.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100017 [v000019]"
+  },
+  {
+    "filename": "spine_hero_100017-v000024.skel",
+    "basename": "spine_hero_100017.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100017-v000024.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100017 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100023-v000015.skel",
+    "basename": "spine_hero_100023.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100023-v000015.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100023 [v000015]"
+  },
+  {
+    "filename": "spine_hero_100023-v000018.skel",
+    "basename": "spine_hero_100023.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100023-v000018.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100023 [v000018]"
+  },
+  {
+    "filename": "spine_hero_100023-v000019.skel",
+    "basename": "spine_hero_100023.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100023-v000019.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100023 [v000019]"
+  },
+  {
+    "filename": "spine_hero_100023-v000024.skel",
+    "basename": "spine_hero_100023.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100023-v000024.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100023 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100029-v000015.skel",
+    "basename": "spine_hero_100029.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100029-v000015.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100029 [v000015]"
+  },
+  {
+    "filename": "spine_hero_100029-v000018.skel",
+    "basename": "spine_hero_100029.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100029-v000018.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100029 [v000018]"
+  },
+  {
+    "filename": "spine_hero_100029-v000019.skel",
+    "basename": "spine_hero_100029.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100029-v000019.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100029 [v000019]"
+  },
+  {
+    "filename": "spine_hero_100029-v000024.skel",
+    "basename": "spine_hero_100029.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100029-v000024.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100029 [v000024]"
+  },
+  {
+    "filename": "spine_hero_100032-v000015.skel",
+    "basename": "spine_hero_100032.skel",
+    "version": "v000015",
+    "path": "models/spine_hero_100032-v000015.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100032 [v000015]"
+  },
+  {
+    "filename": "spine_hero_100032-v000018.skel",
+    "basename": "spine_hero_100032.skel",
+    "version": "v000018",
+    "path": "models/spine_hero_100032-v000018.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100032 [v000018]"
+  },
+  {
+    "filename": "spine_hero_100032-v000019.skel",
+    "basename": "spine_hero_100032.skel",
+    "version": "v000019",
+    "path": "models/spine_hero_100032-v000019.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100032 [v000019]"
+  },
+  {
+    "filename": "spine_hero_100032-v000024.skel",
+    "basename": "spine_hero_100032.skel",
+    "version": "v000024",
+    "path": "models/spine_hero_100032-v000024.skel",
+    "type": "Valkyrie_Unknown",
+    "dispName": "spine_hero_100032 [v000024]"
+  },
+  {
+    "filename": "spine_heroskill_100016-v000019.skel",
+    "basename": "spine_heroskill_100016.skel",
+    "version": "v000019",
+    "path": "models/spine_heroskill_100016-v000019.skel",
+    "type": "Skill_Valkyrie",
+    "dispName": "Skill_Diva [v000019]"
+  },
+  {
+    "filename": "spine_heroskill_100016-v000024.skel",
+    "basename": "spine_heroskill_100016.skel",
+    "version": "v000024",
+    "path": "models/spine_heroskill_100016-v000024.skel",
+    "type": "Skill_Valkyrie",
+    "dispName": "Skill_Diva [v000024]"
+  },
+  {
+    "filename": "spine_heroskill_100012-v000019.skel",
+    "basename": "spine_heroskill_100012.skel",
+    "version": "v000019",
+    "path": "models/spine_heroskill_100012-v000019.skel",
+    "type": "Skill_Valkyrie",
+    "dispName": "Skill_Flame [v000019]"
+  },
+  {
+    "filename": "spine_heroskill_100012-v000024.skel",
+    "basename": "spine_heroskill_100012.skel",
+    "version": "v000024",
+    "path": "models/spine_heroskill_100012-v000024.skel",
+    "type": "Skill_Valkyrie",
+    "dispName": "Skill_Flame [v000024]"
+  },
+  {
+    "filename": "spine_boss_210002-v000015.skel",
+    "basename": "spine_boss_210002.skel",
+    "version": "v000015",
+    "path": "models/spine_boss_210002-v000015.skel",
+    "type": "Boss",
+    "dispName": "Doctor [v000015]"
+  },
+  {
+    "filename": "spine_boss_210002-v000018.skel",
+    "basename": "spine_boss_210002.skel",
+    "version": "v000018",
+    "path": "models/spine_boss_210002-v000018.skel",
+    "type": "Boss",
+    "dispName": "Doctor [v000018]"
+  },
+  {
+    "filename": "spine_boss_210002-v000019.skel",
+    "basename": "spine_boss_210002.skel",
+    "version": "v000019",
+    "path": "models/spine_boss_210002-v000019.skel",
+    "type": "Boss",
+    "dispName": "Doctor [v000019]"
+  },
+  {
+    "filename": "spine_boss_210002-v000024.skel",
+    "basename": "spine_boss_210002.skel",
+    "version": "v000024",
+    "path": "models/spine_boss_210002-v000024.skel",
+    "type": "Boss",
+    "dispName": "Doctor [v000024]"
+  },
+  {
+    "filename": "spine_boss_210002_tou-v000015.skel",
+    "basename": "spine_boss_210002_tou.skel",
+    "version": "v000015",
+    "path": "models/spine_boss_210002_tou-v000015.skel",
+    "type": "Boss",
+    "dispName": "Doctor_tou [v000015]"
+  },
+  {
+    "filename": "spine_boss_210002_tou-v000018.skel",
+    "basename": "spine_boss_210002_tou.skel",
+    "version": "v000018",
+    "path": "models/spine_boss_210002_tou-v000018.skel",
+    "type": "Boss",
+    "dispName": "Doctor_tou [v000018]"
+  },
+  {
+    "filename": "spine_boss_210002_tou-v000019.skel",
+    "basename": "spine_boss_210002_tou.skel",
+    "version": "v000019",
+    "path": "models/spine_boss_210002_tou-v000019.skel",
+    "type": "Boss",
+    "dispName": "Doctor_tou [v000019]"
+  },
+  {
+    "filename": "spine_boss_210002_tou-v000024.skel",
+    "basename": "spine_boss_210002_tou.skel",
+    "version": "v000024",
+    "path": "models/spine_boss_210002_tou-v000024.skel",
+    "type": "Boss",
+    "dispName": "Doctor_tou [v000024]"
+  },
+  {
+    "filename": "loading-v000006.skel",
+    "basename": "loading.skel",
+    "version": "v000006",
+    "path": "models/loading-v000006.skel",
+    "type": "Model_Loading",
+    "dispName": "Loading [v000006]"
+  },
+  {
+    "filename": "loading-v000024.skel",
+    "basename": "loading.skel",
+    "version": "v000024",
+    "path": "models/loading-v000024.skel",
+    "type": "Model_Loading",
+    "dispName": "Loading [v000024]"
+  },
+  {
+    "filename": "loading_old-v000024.skel",
+    "basename": "loading_old.skel",
+    "version": "v000024",
+    "path": "models/loading_old-v000024.skel",
+    "type": "Model_Loading",
+    "dispName": "Loading_old [v000024]"
+  },
+  {
+    "filename": "spine_ui_long-v000024.skel",
+    "basename": "spine_ui_long.skel",
+    "version": "v000024",
+    "path": "models/spine_ui_long-v000024.skel",
+    "type": "Model_Buff",
+    "dispName": "Dragon [v000024]"
+  },
+  {
+    "filename": "spine_uav_001-v000015.skel",
+    "basename": "spine_uav_001.skel",
+    "version": "v000015",
+    "path": "models/spine_uav_001-v000015.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_1 [v000015]"
+  },
+  {
+    "filename": "spine_uav_001-v000018.skel",
+    "basename": "spine_uav_001.skel",
+    "version": "v000018",
+    "path": "models/spine_uav_001-v000018.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_1 [v000018]"
+  },
+  {
+    "filename": "spine_uav_001-v000019.skel",
+    "basename": "spine_uav_001.skel",
+    "version": "v000019",
+    "path": "models/spine_uav_001-v000019.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_1 [v000019]"
+  },
+  {
+    "filename": "spine_uav_001-v000024.skel",
+    "basename": "spine_uav_001.skel",
+    "version": "v000024",
+    "path": "models/spine_uav_001-v000024.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_1 [v000024]"
+  },
+  {
+    "filename": "spine_uav_002-v000015.skel",
+    "basename": "spine_uav_002.skel",
+    "version": "v000015",
+    "path": "models/spine_uav_002-v000015.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_2 [v000015]"
+  },
+  {
+    "filename": "spine_uav_002-v000018.skel",
+    "basename": "spine_uav_002.skel",
+    "version": "v000018",
+    "path": "models/spine_uav_002-v000018.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_2 [v000018]"
+  },
+  {
+    "filename": "spine_uav_002-v000019.skel",
+    "basename": "spine_uav_002.skel",
+    "version": "v000019",
+    "path": "models/spine_uav_002-v000019.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_2 [v000019]"
+  },
+  {
+    "filename": "spine_uav_002-v000024.skel",
+    "basename": "spine_uav_002.skel",
+    "version": "v000024",
+    "path": "models/spine_uav_002-v000024.skel",
+    "type": "Model_Buff",
+    "dispName": "Drone_2 [v000024]"
+  },
+  {
+    "filename": "spine_npc_400005-v000015.skel",
+    "basename": "spine_npc_400005.skel",
+    "version": "v000015",
+    "path": "models/spine_npc_400005-v000015.skel",
+    "type": "Model_Event",
+    "dispName": "7_Day_Login [v000015]"
+  },
+  {
+    "filename": "spine_npc_400005-v000018.skel",
+    "basename": "spine_npc_400005.skel",
+    "version": "v000018",
+    "path": "models/spine_npc_400005-v000018.skel",
+    "type": "Model_Event",
+    "dispName": "7_Day_Login [v000018]"
+  },
+  {
+    "filename": "spine_npc_400005-v000019.skel",
+    "basename": "spine_npc_400005.skel",
+    "version": "v000019",
+    "path": "models/spine_npc_400005-v000019.skel",
+    "type": "Model_Event",
+    "dispName": "7_Day_Login [v000019]"
+  },
+  {
+    "filename": "spine_npc_400005-v000024.skel",
+    "basename": "spine_npc_400005.skel",
+    "version": "v000024",
+    "path": "models/spine_npc_400005-v000024.skel",
+    "type": "Model_Event",
+    "dispName": "7_Day_Login [v000024]"
+  },
+  {
+    "filename": "spine_map_car-v000015.skel",
+    "basename": "spine_map_car.skel",
+    "version": "v000015",
+    "path": "models/spine_map_car-v000015.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car [v000015]"
+  },
+  {
+    "filename": "spine_map_car-v000018.skel",
+    "basename": "spine_map_car.skel",
+    "version": "v000018",
+    "path": "models/spine_map_car-v000018.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car [v000018]"
+  },
+  {
+    "filename": "spine_map_car-v000019.skel",
+    "basename": "spine_map_car.skel",
+    "version": "v000019",
+    "path": "models/spine_map_car-v000019.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car [v000019]"
+  },
+  {
+    "filename": "spine_map_car-v000024.skel",
+    "basename": "spine_map_car.skel",
+    "version": "v000024",
+    "path": "models/spine_map_car-v000024.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car [v000024]"
+  },
+  {
+    "filename": "spine_map_car_2-v000015.skel",
+    "basename": "spine_map_car_2.skel",
+    "version": "v000015",
+    "path": "models/spine_map_car_2-v000015.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car_2 [v000015]"
+  },
+  {
+    "filename": "spine_map_car_2-v000018.skel",
+    "basename": "spine_map_car_2.skel",
+    "version": "v000018",
+    "path": "models/spine_map_car_2-v000018.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car_2 [v000018]"
+  },
+  {
+    "filename": "spine_map_car_2-v000019.skel",
+    "basename": "spine_map_car_2.skel",
+    "version": "v000019",
+    "path": "models/spine_map_car_2-v000019.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car_2 [v000019]"
+  },
+  {
+    "filename": "spine_map_car_2-v000024.skel",
+    "basename": "spine_map_car_2.skel",
+    "version": "v000024",
+    "path": "models/spine_map_car_2-v000024.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Car_2 [v000024]"
+  },
+  {
+    "filename": "spine_map_girl-v000015.skel",
+    "basename": "spine_map_girl.skel",
+    "version": "v000015",
+    "path": "models/spine_map_girl-v000015.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl [v000015]"
+  },
+  {
+    "filename": "spine_map_girl-v000018.skel",
+    "basename": "spine_map_girl.skel",
+    "version": "v000018",
+    "path": "models/spine_map_girl-v000018.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl [v000018]"
+  },
+  {
+    "filename": "spine_map_girl-v000019.skel",
+    "basename": "spine_map_girl.skel",
+    "version": "v000019",
+    "path": "models/spine_map_girl-v000019.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl [v000019]"
+  },
+  {
+    "filename": "spine_map_girl-v000024.skel",
+    "basename": "spine_map_girl.skel",
+    "version": "v000024",
+    "path": "models/spine_map_girl-v000024.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl [v000024]"
+  },
+  {
+    "filename": "spine_map_girl_2-v000015.skel",
+    "basename": "spine_map_girl_2.skel",
+    "version": "v000015",
+    "path": "models/spine_map_girl_2-v000015.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl_2 [v000015]"
+  },
+  {
+    "filename": "spine_map_girl_2-v000018.skel",
+    "basename": "spine_map_girl_2.skel",
+    "version": "v000018",
+    "path": "models/spine_map_girl_2-v000018.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl_2 [v000018]"
+  },
+  {
+    "filename": "spine_map_girl_2-v000019.skel",
+    "basename": "spine_map_girl_2.skel",
+    "version": "v000019",
+    "path": "models/spine_map_girl_2-v000019.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl_2 [v000019]"
+  },
+  {
+    "filename": "spine_map_girl_2-v000024.skel",
+    "basename": "spine_map_girl_2.skel",
+    "version": "v000024",
+    "path": "models/spine_map_girl_2-v000024.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Girl_2 [v000024]"
+  },
+  {
+    "filename": "spine_map_lawn-v000015.skel",
+    "basename": "spine_map_lawn.skel",
+    "version": "v000015",
+    "path": "models/spine_map_lawn-v000015.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn [v000015]"
+  },
+  {
+    "filename": "spine_map_lawn-v000018.skel",
+    "basename": "spine_map_lawn.skel",
+    "version": "v000018",
+    "path": "models/spine_map_lawn-v000018.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn [v000018]"
+  },
+  {
+    "filename": "spine_map_lawn-v000019.skel",
+    "basename": "spine_map_lawn.skel",
+    "version": "v000019",
+    "path": "models/spine_map_lawn-v000019.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn [v000019]"
+  },
+  {
+    "filename": "spine_map_lawn-v000024.skel",
+    "basename": "spine_map_lawn.skel",
+    "version": "v000024",
+    "path": "models/spine_map_lawn-v000024.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn [v000024]"
+  },
+  {
+    "filename": "spine_map_lawn_2-v000015.skel",
+    "basename": "spine_map_lawn_2.skel",
+    "version": "v000015",
+    "path": "models/spine_map_lawn_2-v000015.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn_2 [v000015]"
+  },
+  {
+    "filename": "spine_map_lawn_2-v000018.skel",
+    "basename": "spine_map_lawn_2.skel",
+    "version": "v000018",
+    "path": "models/spine_map_lawn_2-v000018.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn_2 [v000018]"
+  },
+  {
+    "filename": "spine_map_lawn_2-v000019.skel",
+    "basename": "spine_map_lawn_2.skel",
+    "version": "v000019",
+    "path": "models/spine_map_lawn_2-v000019.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn_2 [v000019]"
+  },
+  {
+    "filename": "spine_map_lawn_2-v000024.skel",
+    "basename": "spine_map_lawn_2.skel",
+    "version": "v000024",
+    "path": "models/spine_map_lawn_2-v000024.skel",
+    "type": "Model_Map",
+    "dispName": "Map_Lawn_2 [v000024]"
+  }
+]

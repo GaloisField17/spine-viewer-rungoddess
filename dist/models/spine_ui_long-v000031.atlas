@@ -1,0 +1,118 @@
+
+spine_ui_long-v000031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LX_1
+  rotate: false
+  xy: 856, 51
+  size: 142, 63
+  orig: 215, 76
+  offset: 70, 0
+  index: -1
+LX_10
+  rotate: false
+  xy: 2, 134
+  size: 349, 315
+  orig: 349, 344
+  offset: 0, 0
+  index: -1
+LX_11
+  rotate: false
+  xy: 795, 23
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+LX_12
+  rotate: false
+  xy: 191, 43
+  size: 143, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+LX_13
+  rotate: false
+  xy: 711, 883
+  size: 215, 139
+  orig: 219, 141
+  offset: 0, 2
+  index: -1
+LX_14
+  rotate: false
+  xy: 688, 116
+  size: 191, 240
+  orig: 257, 308
+  offset: 0, 0
+  index: -1
+LX_15
+  rotate: false
+  xy: 460, 498
+  size: 249, 524
+  orig: 265, 542
+  offset: 16, 0
+  index: -1
+LX_16
+  rotate: false
+  xy: 353, 173
+  size: 333, 276
+  orig: 333, 283
+  offset: 0, 0
+  index: -1
+LX_2
+  rotate: false
+  xy: 688, 358
+  size: 216, 138
+  orig: 216, 138
+  offset: 0, 0
+  index: -1
+LX_3
+  rotate: false
+  xy: 2, 2
+  size: 187, 130
+  orig: 187, 132
+  offset: 0, 0
+  index: -1
+LX_4
+  rotate: false
+  xy: 711, 761
+  size: 199, 120
+  orig: 199, 120
+  offset: 0, 0
+  index: -1
+LX_5
+  rotate: false
+  xy: 525, 14
+  size: 188, 100
+  orig: 201, 120
+  offset: 12, 4
+  index: -1
+LX_6
+  rotate: false
+  xy: 353, 10
+  size: 170, 161
+  orig: 173, 161
+  offset: 0, 0
+  index: -1
+LX_7
+  rotate: false
+  xy: 2, 451
+  size: 456, 571
+  orig: 589, 577
+  offset: 67, 6
+  index: -1
+LX_8
+  rotate: false
+  xy: 881, 295
+  size: 57, 61
+  orig: 76, 62
+  offset: 19, 0
+  index: -1
+LX_9
+  rotate: false
+  xy: 715, 9
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1

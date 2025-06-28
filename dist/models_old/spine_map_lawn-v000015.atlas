@@ -1,0 +1,83 @@
+
+spine_map_lawn-v000015.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caodi
+  rotate: false
+  xy: 0, 522
+  size: 667, 146
+  orig: 1303, 401
+  offset: 0, 0
+  index: -1
+caodi2
+  rotate: false
+  xy: 0, 240
+  size: 668, 140
+  orig: 1303, 401
+  offset: 635, 0
+  index: -1
+caodi3
+  rotate: false
+  xy: 0, 381
+  size: 643, 140
+  orig: 1303, 401
+  offset: 0, 0
+  index: -1
+caodi4
+  rotate: false
+  xy: 0, 93
+  size: 645, 146
+  orig: 1303, 401
+  offset: 658, 0
+  index: -1
+cong1
+  rotate: false
+  xy: 0, 758
+  size: 125, 56
+  orig: 131, 60
+  offset: 3, 4
+  index: -1
+cong2
+  rotate: false
+  xy: 18, 1
+  size: 321, 91
+  orig: 331, 103
+  offset: 3, 12
+  index: -1
+yun1
+  rotate: false
+  xy: 646, 115
+  size: 353, 157
+  orig: 1303, 401
+  offset: 676, 56
+  index: -1
+yun11
+  rotate: false
+  xy: 684, 550
+  size: 312, 204
+  orig: 1303, 401
+  offset: 110, 55
+  index: -1
+yun12
+  rotate: false
+  xy: 667, 332
+  size: 272, 217
+  orig: 1303, 401
+  offset: 414, 56
+  index: -1
+yun2
+  rotate: false
+  xy: 335, 27
+  size: 411, 87
+  orig: 1303, 401
+  offset: 862, 62
+  index: -1
+yun31
+  rotate: false
+  xy: 0, 669
+  size: 919, 301
+  orig: 1303, 401
+  offset: 4, 100
+  index: -1

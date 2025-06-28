@@ -1,0 +1,76 @@
+
+spine_boss_210002_tou-v000015.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boshi_1
+  rotate: false
+  xy: 0, 55
+  size: 108, 63
+  orig: 108, 63
+  offset: 0, 0
+  index: -1
+boshi_12
+  rotate: false
+  xy: 112, 124
+  size: 68, 128
+  orig: 68, 128
+  offset: 0, 0
+  index: -1
+boshi_13
+  rotate: false
+  xy: 110, 58
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+boshi_14
+  rotate: false
+  xy: 0, 176
+  size: 117, 77
+  orig: 293, 530
+  offset: 96, 453
+  index: -1
+boshi_2
+  rotate: false
+  xy: 75, 82
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+boshi_3
+  rotate: false
+  xy: 90, 25
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+boshi_4
+  rotate: false
+  xy: 34, 101
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+boshi_5
+  rotate: false
+  xy: 27, 4
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+boshi_6
+  rotate: false
+  xy: 0, 138
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+boshi_7
+  rotate: false
+  xy: 0, 2
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1

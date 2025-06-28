@@ -1,0 +1,160 @@
+
+spine_Frole_1200_4-v000031.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_1
+  rotate: false
+  xy: 594, 283
+  size: 374, 238
+  orig: 375, 244
+  offset: 0, 0
+  index: -1
+4_10
+  rotate: false
+  xy: 575, 113
+  size: 264, 286
+  orig: 265, 286
+  offset: 0, 0
+  index: -1
+4_11
+  rotate: false
+  xy: 546, 694
+  size: 397, 315
+  orig: 397, 315
+  offset: 0, 0
+  index: -1
+4_12
+  rotate: false
+  xy: 51, 967
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+4_13
+  rotate: false
+  xy: 0, 487
+  size: 121, 194
+  orig: 121, 248
+  offset: 0, 54
+  index: -1
+4_14
+  rotate: false
+  xy: 806, 24
+  size: 163, 258
+  orig: 163, 258
+  offset: 0, 0
+  index: -1
+4_15
+  rotate: false
+  xy: 253, 578
+  size: 126, 167
+  orig: 126, 167
+  offset: 0, 0
+  index: -1
+4_16
+  rotate: false
+  xy: 377, 271
+  size: 248, 631
+  orig: 248, 631
+  offset: 0, 0
+  index: -1
+4_17
+  rotate: false
+  xy: 0, 114
+  size: 289, 380
+  orig: 289, 396
+  offset: 0, 16
+  index: -1
+4_18
+  rotate: false
+  xy: 89, 597
+  size: 179, 235
+  orig: 179, 235
+  offset: 0, 0
+  index: -1
+4_19
+  rotate: false
+  xy: 0, 192
+  size: 510, 639
+  orig: 510, 639
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: false
+  xy: 0, 416
+  size: 165, 134
+  orig: 165, 134
+  offset: 0, 0
+  index: -1
+4_20
+  rotate: false
+  xy: 336, 644
+  size: 41, 143
+  orig: 41, 143
+  offset: 0, 0
+  index: -1
+4_21
+  rotate: false
+  xy: 532, 512
+  size: 319, 339
+  orig: 319, 339
+  offset: 0, 0
+  index: -1
+4_22
+  rotate: false
+  xy: 0, 783
+  size: 531, 226
+  orig: 531, 226
+  offset: 0, 0
+  index: -1
+4_3
+  rotate: false
+  xy: 436, 1
+  size: 185, 220
+  orig: 185, 220
+  offset: 0, 0
+  index: -1
+4_4
+  rotate: false
+  xy: 0, 943
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+4_5
+  rotate: false
+  xy: 0, 682
+  size: 52, 48
+  orig: 53, 48
+  offset: 1, 0
+  index: -1
+4_6
+  rotate: false
+  xy: 20, 935
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+4_7
+  rotate: false
+  xy: 0, 960
+  size: 51, 48
+  orig: 53, 48
+  offset: 2, 0
+  index: -1
+4_8
+  rotate: false
+  xy: 258, 415
+  size: 165, 184
+  orig: 165, 184
+  offset: 0, 0
+  index: -1
+4_9
+  rotate: false
+  xy: 209, 39
+  size: 227, 225
+  orig: 227, 225
+  offset: 0, 0
+  index: -1
